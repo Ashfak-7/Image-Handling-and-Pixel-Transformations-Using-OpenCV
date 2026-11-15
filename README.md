@@ -360,5 +360,7 @@ plt.show()
 
 <img width="352" height="434" alt="download" src="https://github.com/user-attachments/assets/f5c4d11e-9d36-4bb7-947b-cc80a519ba92" />
 
+## Result:
 
+Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
 
